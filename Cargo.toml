@@ -7,6 +7,7 @@ licence = "MIT"
 description = "Extracts the photo from the given doc file"
 repository = "https://github.com/LCahid/Extractor"
 readme = "README.md"
+keywords = ["extractor", "photo", "doc", "docx", "pdf", "docm", "docb"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
