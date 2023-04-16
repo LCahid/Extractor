@@ -5,6 +5,7 @@ authors = ["Cahid"]
 edition = "2021"
 license = "MIT"
 description = "Extracts the photo from the given doc file"
+documentation = "file:///C:/Users/mrceb/Desktop/my_lib/target/doc/extractor_p/fn.extr_photo.html"
 repository = "https://github.com/LCahid/Extractor"
 readme = "README.md"
 keywords = ["extractor", "photo", "doc", "docx", "docm"]
