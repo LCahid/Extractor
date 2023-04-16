@@ -22,8 +22,9 @@ use std::io::prelude::*;
 /// ```
 /// use extractor_p::extr_photo;
 /// 
-///
-/// extr_photo("./test.doc", "./test").unwrap();
+///fn main() {
+///     extr_photo("./test.doc", "./test").unwrap();
+/// }
 /// ```
 /// 
 ///
